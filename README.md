@@ -7,7 +7,7 @@ Bookly lets you to create virtual library. You can add a book/quote. All data se
 Techs that i use:
 CoreData,
 FirebaseStorage, 
-FirebaseAuth,
+FirebaseAuth
 
 
 App Photos:
