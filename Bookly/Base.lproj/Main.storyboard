@@ -693,7 +693,7 @@
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="V1m-g0-mp7">
                                 <rect key="frame" x="10" y="113" width="410" height="726"/>
                                 <subviews>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="blank_image" translatesAutoresizingMaskIntoConstraints="NO" id="2dB-qG-izH">
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="2dB-qG-izH">
                                         <rect key="frame" x="0.0" y="0.0" width="410" height="348"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Username" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8lG-r2-ifg">
@@ -1270,7 +1270,6 @@
         <segue reference="I8w-Me-fih"/>
     </inferredMetricsTieBreakers>
     <resources>
-        <image name="blank_image" width="227" height="222"/>
         <image name="book_remove_bg" width="225" height="225"/>
         <image name="books.vertical.fill" catalog="system" width="128" height="110"/>
         <image name="door.right.hand.open" catalog="system" width="108" height="128"/>
